@@ -1,4 +1,4 @@
-class BCF_V2():
+class BCF_V2(): #This is a BCF 2.0 Class atm
     def __init__(self, path_to_issues):
         print("BCF class imported")
         self.path_to_issues = path_to_issues
