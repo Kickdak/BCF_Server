@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<VisualizationInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="visinfo.xsd">
+    <Components>
+        <Component IfcGuid="1IUfNshGP9QxMLHJI_3Oyq" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID527a95f6-ad06-496b-b595-4534be0d8f34</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2G1Xmbopr8x8DIZ4FG915I" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>734222</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0sLWZf53bDxR5PLtw8FBA8" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID365608e9-1439-4ded-b159-577e883cb288</AuthoringToolId>
+        </Component>
+    </Components>
+    <PerspectiveCamera>
+        <CameraViewPoint>
+            <X>309.8872374410467</X>
+            <Y>274.8787546742881</Y>
+            <Z>105.92997052135088</Z>
+        </CameraViewPoint>
+        <CameraDirection>
+            <X>0.6738255795200035</X>
+            <Y>-0.7267490608189113</Y>
+            <Z>-0.13339749241781831</Z>
+        </CameraDirection>
+        <CameraUpVector>
+            <X>0.09069723867632788</X>
+            <Y>-0.09782076405268518</Y>
+            <Z>0.9910626160927665</Z>
+        </CameraUpVector>
+        <FieldOfView>74.0</FieldOfView>
+    </PerspectiveCamera>
+    <ClippingPlanes>
+        <ClippingPlane>
+            <Location>
+                <X>173.5421381851036</X>
+                <Y>-73.99135192798755</Y>
+                <Z>0.0</Z>
+            </Location>
+            <Direction>
+                <X>0.9198801034234612</X>
+                <Y>-0.3921996880743818</Y>
+                <Z>0.0</Z>
+            </Direction>
+        </ClippingPlane>
+    </ClippingPlanes>
+</VisualizationInfo>

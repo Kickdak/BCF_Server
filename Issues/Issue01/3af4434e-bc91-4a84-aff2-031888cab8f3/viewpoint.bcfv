@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<VisualizationInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="visinfo.xsd">
+    <Components>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz2R" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994294</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1UADsjWCn4rOefsW9Zy8bg" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID5e28ddad-80cc-44d5-8a29-da0263f0896a</AuthoringToolId>
+        </Component>
+    </Components>
+    <PerspectiveCamera>
+        <CameraViewPoint>
+            <X>305.65843724299714</X>
+            <Y>263.1220302984421</Y>
+            <Z>108.87968224687191</Z>
+        </CameraViewPoint>
+        <CameraDirection>
+            <X>-0.2664550233193809</X>
+            <Y>0.7143121090557552</Y>
+            <Z>-0.6471166289040851</Z>
+        </CameraDirection>
+        <CameraUpVector>
+            <X>-0.22616671987076972</X>
+            <Y>0.6063073034584724</Y>
+            <Z>0.7623910207995716</Z>
+        </CameraUpVector>
+        <FieldOfView>74.0</FieldOfView>
+    </PerspectiveCamera>
+    <ClippingPlanes>
+        <ClippingPlane>
+            <Location>
+                <X>173.5421381851036</X>
+                <Y>-73.99135192798755</Y>
+                <Z>0.0</Z>
+            </Location>
+            <Direction>
+                <X>0.9198801034234612</X>
+                <Y>-0.3921996880743818</Y>
+                <Z>0.0</Z>
+            </Direction>
+        </ClippingPlane>
+    </ClippingPlanes>
+</VisualizationInfo>

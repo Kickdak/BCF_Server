@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Markup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="markup.xsd">
+    <Header/>
+    <Topic Guid="64a1513e-1531-4dbc-bc9b-0e28d353f211" TopicType="Error" TopicStatus="Open">
+        <Title>Metode 1 - (B4s)</Title>
+        <Index>0</Index>
+        <CreationDate>2020-05-15T10:06:05+02:00</CreationDate>
+        <CreationAuthor>henrik.nystrom@bundebygg.no</CreationAuthor>
+        <ModifiedDate>2020-05-15T10:40:52+02:00</ModifiedDate>
+        <ModifiedAuthor>henrik.nystrom@bundebygg.no</ModifiedAuthor>
+        <AssignedTo>ARK</AssignedTo>
+        <Description></Description>
+    </Topic>
+    <Comment Guid="7355faf7-37c4-44de-9507-cf14b0bf0371">
+        <VerbalStatus>Open</VerbalStatus>
+        <Status>Error</Status>
+        <Date>2020-05-15T10:06:05+02:00</Date>
+        <Author>henrik.nystrom@bundebygg.no</Author>
+        <Comment></Comment>
+        <ModifiedDate>2020-05-15T10:06:05+02:00</ModifiedDate>
+    </Comment>
+    <Comment Guid="7b7eea89-7ee5-4676-a830-9e62ddaf9904">
+        <VerbalStatus>Open</VerbalStatus>
+        <Status>Error</Status>
+        <Date>2020-05-15T10:06:05+02:00</Date>
+        <Author>henrik.nystrom@bundebygg.no</Author>
+        <Comment></Comment>
+        <ModifiedDate>2020-05-15T10:06:05+02:00</ModifiedDate>
+    </Comment>
+    <Comment Guid="b3419011-f2d8-492e-bf5b-151c59ee0723">
+        <VerbalStatus>Open</VerbalStatus>
+        <Status>Error</Status>
+        <Date>2020-05-15T10:06:05+02:00</Date>
+        <Author>henrik.nystrom@bundebygg.no</Author>
+        <Comment></Comment>
+        <ModifiedDate>2020-05-15T10:06:05+02:00</ModifiedDate>
+    </Comment>
+    <Comment Guid="0a1381ee-bd82-43c8-aede-76f507d539fb">
+        <VerbalStatus>Open</VerbalStatus>
+        <Status>Error</Status>
+        <Date>2020-05-15T10:06:05+02:00</Date>
+        <Author>henrik.nystrom@bundebygg.no</Author>
+        <Comment></Comment>
+        <ModifiedDate>2020-05-15T10:06:05+02:00</ModifiedDate>
+    </Comment>
+    <Comment Guid="dfe8b839-548d-4716-9f82-3c3d30091507">
+        <VerbalStatus>Open</VerbalStatus>
+        <Status>Error</Status>
+        <Date>2020-05-15T10:06:05+02:00</Date>
+        <Author>henrik.nystrom@bundebygg.no</Author>
+        <Comment></Comment>
+        <ModifiedDate>2020-05-15T10:06:05+02:00</ModifiedDate>
+    </Comment>
+    <Comment Guid="47fda3bc-f444-4763-a9c7-402a716bf7ba">
+        <VerbalStatus>Open</VerbalStatus>
+        <Status>Error</Status>
+        <Date>2020-05-15T10:06:05+02:00</Date>
+        <Author>henrik.nystrom@bundebygg.no</Author>
+        <Comment></Comment>
+        <ModifiedDate>2020-05-15T10:06:05+02:00</ModifiedDate>
+    </Comment>
+    <Comment Guid="f5a88273-8fb0-4cff-a0b5-6ef16ca2dce6">
+        <VerbalStatus>Open</VerbalStatus>
+        <Status>Error</Status>
+        <Date>2020-05-15T10:06:05+02:00</Date>
+        <Author>henrik.nystrom@bundebygg.no</Author>
+        <Comment></Comment>
+        <ModifiedDate>2020-05-15T10:06:05+02:00</ModifiedDate>
+    </Comment>
+    <Viewpoints Guid="8a2ec034-3721-48eb-ad33-6a5f09a73b1c">
+        <Viewpoint>viewpoint.bcfv</Viewpoint>
+        <Snapshot>snapshot.png</Snapshot>
+    </Viewpoints>
+    <Viewpoints Guid="bfa4e7a6-a913-4c60-8064-dfbcfe82b989">
+        <Viewpoint>bfa4e7a6-a913-4c60-8064-dfbcfe82b989.bcfv</Viewpoint>
+        <Snapshot>bfa4e7a6-a913-4c60-8064-dfbcfe82b989.png</Snapshot>
+    </Viewpoints>
+    <Viewpoints Guid="29befc49-8d5f-4568-859e-7453ef9ee88b">
+        <Viewpoint>29befc49-8d5f-4568-859e-7453ef9ee88b.bcfv</Viewpoint>
+        <Snapshot>29befc49-8d5f-4568-859e-7453ef9ee88b.png</Snapshot>
+    </Viewpoints>
+    <Viewpoints Guid="52f8e414-2f1f-43ae-934c-ebc8e91a78e0">
+        <Viewpoint>52f8e414-2f1f-43ae-934c-ebc8e91a78e0.bcfv</Viewpoint>
+        <Snapshot>52f8e414-2f1f-43ae-934c-ebc8e91a78e0.png</Snapshot>
+    </Viewpoints>
+    <Viewpoints Guid="d4eaefe9-db3a-44ea-8cab-28fe14fc68b3">
+        <Viewpoint>d4eaefe9-db3a-44ea-8cab-28fe14fc68b3.bcfv</Viewpoint>
+        <Snapshot>d4eaefe9-db3a-44ea-8cab-28fe14fc68b3.png</Snapshot>
+    </Viewpoints>
+    <Viewpoints Guid="cb0e67b8-c412-4387-b5ee-aac0d8264f1a">
+        <Viewpoint>cb0e67b8-c412-4387-b5ee-aac0d8264f1a.bcfv</Viewpoint>
+        <Snapshot>cb0e67b8-c412-4387-b5ee-aac0d8264f1a.png</Snapshot>
+    </Viewpoints>
+    <Viewpoints Guid="7a21fb05-ca55-4f2a-b055-74f177092a69">
+        <Viewpoint>7a21fb05-ca55-4f2a-b055-74f177092a69.bcfv</Viewpoint>
+        <Snapshot>7a21fb05-ca55-4f2a-b055-74f177092a69.png</Snapshot>
+    </Viewpoints>
+</Markup>

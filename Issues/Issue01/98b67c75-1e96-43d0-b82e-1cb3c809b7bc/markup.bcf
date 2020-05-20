@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Markup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="markup.xsd">
+    <Header/>
+    <Topic Guid="98b67c75-1e96-43d0-b82e-1cb3c809b7bc" TopicType="Error" TopicStatus="Open">
+        <Title>Vegghøyde for lav 7</Title>
+        <Index>2</Index>
+        <CreationDate>2020-05-15T10:51:40+02:00</CreationDate>
+        <CreationAuthor>henrik.nystrom@bundebygg.no</CreationAuthor>
+        <ModifiedDate>2020-05-15T11:25:15+02:00</ModifiedDate>
+        <ModifiedAuthor>henrik.nystrom@bundebygg.no</ModifiedAuthor>
+        <AssignedTo>ARK</AssignedTo>
+        <Description></Description>
+    </Topic>
+    <Comment Guid="64499705-dff0-49fe-b26e-81bb566ab34b">
+        <VerbalStatus>Open</VerbalStatus>
+        <Status>Error</Status>
+        <Date>2020-05-15T10:51:40+02:00</Date>
+        <Author>henrik.nystrom@bundebygg.no</Author>
+        <Comment></Comment>
+        <ModifiedDate>2020-05-15T10:51:40+02:00</ModifiedDate>
+    </Comment>
+    <Viewpoints Guid="7e55ce8a-c84f-4918-9c14-ad69d885860d">
+        <Viewpoint>viewpoint.bcfv</Viewpoint>
+        <Snapshot>snapshot.png</Snapshot>
+    </Viewpoints>
+</Markup>

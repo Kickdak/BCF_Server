@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<VisualizationInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="visinfo.xsd">
+    <Components>
+        <Component IfcGuid="299u$B57f5WwRxaBfhhxpY" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID89278fcb-147a-4583-a6fb-90ba6bafbce2</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3HIMA$ZUD22PCjabodpIce" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDd14962bf-8de3-4209-932d-925ca7cd29a8</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1SCRxXhR94Qu0UCEyQgMR$" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID5c31bee1-adb2-446b-801e-30ef1aa966ff</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz2Q" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994295</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3aEqj38TbCPRut2nemEuET" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2990483</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3aB0zlBtv0ihfU0KPjDK4D" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDe42c0f6f-2f7e-40b2-ba5e-01466d35410d</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3kBKR_pzT3EfaRE7cZxaIP" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2989358</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3aEqj38TbCPRut2nemEuSW" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2991406</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3UDxEYtyH6GRzctcnpQBpt" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDde37b3a2-dfc4-4641-bf66-de6c7368bcf7</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3bS7aZ_QnESQMKH5mTOD8M" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDe5707923-f9ac-4e71-a594-445c1d60d216</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3GkgUfV4j3ZAaylNKa7NxK" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDd0baa7a9-7c4b-438c-a93c-bd75241d7ed4</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2EOwgATH5AkwUIdX$1ixP0" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID8e63aa8a-7511-4abb-a792-9e1fc1b3b640</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0fOhEtbNzF19zlEf5yaurZ" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>952220</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3kBKR_pzT3EfaRE7cZxa9Z" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2989012</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1wVaG0I5n2WwdZL6rTaayK" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID7a7e4400-485c-4283-a9e3-546d5d924f14</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3Rszvowb53h8Gj28_brfsy" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDdbdbde72-ea51-43ac-842d-088fa5d69dbc</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3aEqj38TbCPRut2nemExt2" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2990028</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="072omoqfn62wZc1civHJ2I" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID070b2c32-d29c-460b-a8e6-066b39453092</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3kBKR_pzT3EfaRE7cZxa3r" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2988354</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2URAWQc_L0zR_ClcDMQ75I" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID9e6ca81a-9be5-40f5-bf8c-be6356687152</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1gyhHdZyD2YRaPzy$f2d25" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>952781</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz_I" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>992511</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1r7v_l50H0gvWK1Czt6glb" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID751f9faf-1404-40ab-9814-04cf771aabe5</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2hR14pSAbDkRP61RbI9USd" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1848186</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0VVvLtYxn9URma4vtUybbP" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID1f7f9577-8bbc-4979-bc24-139ddef25959</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1jn24styX6nupy4JWkikN1" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID6dc42136-dfc8-46c7-8cfc-11382eb2e5c1</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0R6yk0ZQfBmvmldJDTn4$E" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID1b1bcb80-8daa-4bc3-9c2f-9d335dc44fce</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3kBKR_pzT3EfaRE7cZxapg" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2987357</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2HPy7bYd58ueI44rvLRPNQ" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID9167c1e5-8a71-48e2-8484-135e556d95da</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="13BHLaAo1CfuqvGcoRWvna" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID432d1564-2b20-4ca7-8d39-426c9b839c64</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="059JNnfcn3SAFIl$YOHpDF" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2920962</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1q0jqkzCXAZfweA1UlGtmt" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID7402dd2e-f4c8-4a8e-9ea8-2817af437c37</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2GC$Kayx14_vE4BF6ekLzk" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID9033f524-f3b0-44fb-9384-2cf1a8b95f6e</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0$6t8uQWP1FRXUCstuBRd1" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID3f1b7238-6a06-413d-b85e-336df82db9c1</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0Wmok$1NbEBR_lnSKsRhbW" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID20c32bbf-0579-4e2d-bfaf-c5c5366eb960</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1AAKa9N1H4I9LRp1gcM_JA" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID4a294909-5c14-4448-955b-cc1aa65be4ca</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1Ac94FZl1D6Q_d8GWbaJc3" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID4a98910f-8ef0-4d19-afa7-210825913983</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0KBOBLK9j2guEUS0DUQICq" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2844303</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0zJq0OItv1x9GqRLyPBcrT" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1198480</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0BZkLfJJHERQ$X1UfWrLAb" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID0b8ee569-4d34-4e6d-afe1-05ea60d552a5</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2BjHW3ppPB5h4aW2cOuho$" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID8bb51803-cf36-4b16-b124-802998e2bcbf</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="35WmizrrD2lvvOiM6huLxL" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDc5830b3d-d753-42bf-9e58-b161abe15ed5</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2XE_6arnf2Lx4T4V3jN7Vz" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>911772</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz2S" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994289</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2c0tJzs756ER1rJaEGW_Rp" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDa60374fd-d871-4639-b075-4e439083e6f3</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="16tk3yuI5BtxKulGMeb2Cn" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID46dee0fc-e121-4bdf-b538-bd05a8942331</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="39eG$t9QbAyQXZv8vlqEgj" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDc9a10ff7-25a9-4af1-a863-e48e6fd0eaad</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3DaHrhW754iwvjOxxNUjYQ" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDcd911d6b-8071-44b3-ae6d-63bed77ad89a</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1UADsjWCn4rOefsW9Zy8bg" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID5e28ddad-80cc-44d5-8a29-da0263f0896a</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3DX8qsTkDAn8uIultdXbov" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDcd848d36-76e3-4ac4-8e12-e2fde7865cb9</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2DaGT79wr3EPFjQMwzZX6r" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>3005045</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0h8Ztq83H5cvCRAaEnznQX" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID2b223df4-2034-459b-931b-2a43b1f716a1</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1FhXNx6jf5HhFpeRqt4LK6" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID4fae15fb-1ada-4546-b3f3-a1bd37115506</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2XE_6arnf2Lx4T4V3jN7SZ" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>911682</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2XE_6arnf2Lx4T4V3jN7Vv" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>911768</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1Oea3jVuv5e86y5tbSQaQl" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID58a240ed-7f8e-45a0-81bc-17795c6a46af</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2hR14pSAbDkRP61RbI9ULM" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1847563</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2RlgYtrWj9$gCVC4H0awjI" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2919568</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="15NfbYjifFWvwZugWcyCkm" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID455e9962-b6ca-4f83-9ea3-e2a826f0cbb0</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz2B" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994278</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3aEqj38TbCPRut2nemEu0D" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2990595</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3kBKR_pzT3EfaRE7cZxaLz" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2989258</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3aEqj38TbCPRut2nemEu93" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2990157</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="24vhSFznv228SzP5$7xJK3" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID84e6b70f-f71e-4208-873d-645fc7ed3503</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2F_JMY1MnASO1KCLmxYKbM" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID8ff935a2-056c-4a71-8054-315c3b894956</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3LdODGokrE2fDw2q_aZk$t" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDd59d8350-caed-4e0a-937a-0b4fa48eeff7</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3$yczmtPj1CAMmysSr9aQF" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDfff26f70-dd9b-4130-a5b0-f3673526468f</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1Nea1tpP12zu6bUP2iPw2V" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1652050</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3kBKR_pzT3EfaRE7cZxaMW" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2989079</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2ufvb4HS56gQbFEj_NzdGH" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDb8a79944-45c1-46a9-a94f-3adf97f67411</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0rMY0zhfn0LhGAXzDlB5CO" Selected="true" Visible="true">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2864346</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1YCLp$DWbDGOhGKRH_BZav" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID62315cff-3609-4d41-8ad0-51b47e2e3939</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3Cx88rE8521ATaxy5H_P0n" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDccec8235-3881-4204-a764-efc151f99031</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="07a3s4tSL9r8OE$nAZK85s" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1808231</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1G4EIfJF1F9eCBFma4qISV" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID5010e4a9-4cf0-4f26-830b-3f0904d1271f</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0P$9GS0jv3sgiaGrU45tFR" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID19fc941c-02de-43da-ab24-4357841773db</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2XE_6arnf2Lx4T4V3jN7SX" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>911680</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3HqYqGFHDE8wGlP6Pkbwk8" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDd1d22d10-3d13-4e23-a42f-64666e97ab88</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0bsaEg_w10zOJEAr$rm4LX" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID25da43aa-fba0-40f5-84ce-2b5ff5c04561</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3kBKR_pzT3EfaRE7cZxa8e" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2988959</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0Dw46EdDvARx$Jh5ZpW9Fr" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>628944</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3aEqj38TbCPRut2nemEu4U" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2990864</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0Rl$zm6EX2RALnw49MTk5o" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1693547</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz23" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994286</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3ufYulyR1AkuNGqvH$6v9K" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDf8a62e2f-f1b0-4abb-85d0-d3947f1b9254</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz2P" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994292</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3vKo4nX$HEhPIrI6qLTkTr" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDf9532131-87f4-4ead-94b5-486d1576e775</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="13PW_KtuHFJPxlpG_ucAYg" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID43660f94-df84-4f4d-9eef-cd0fb898a8aa</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0Vx7bLesLF789jFTPRi$Ur" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID1fec7955-a365-4f1c-826d-3dd65bb3f7b5</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="37PdIHDqz0wuQG3wmdSJzu" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDc7667491-374f-40eb-8690-0fac27713f78</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0KId4OF19Afv5dKreIjT$L" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID144a7118-3c12-4aa7-9167-535a12b5dfd5</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1JDzIzLK17_f69whNLzF84" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID5337d4bd-5540-47fa-9189-eab5d5f4f204</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3WVOLNkcrCIOQVOaId5$56" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2472419</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Izv3" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>992558</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3EqaKBr6P1WPHvopSiAYqt" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDced2450b-d466-4181-9479-cb372c2a2d37</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0LQDiA9TrFAP3k6_luSDMZ" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1218199</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz2p" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994270</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="22t8GgMoX2iuTVnDr57xiX" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID82dc842a-5b28-42b3-875f-c4dd451fbb21</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0eEIDMIm17qvwJciWlBC6n" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID28392356-4b00-47d3-9e93-9ac82f2cc1b1</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="13wKv3Jrb7CAbMHI4M_eLr" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID43e94e43-4f59-4730-a956-452116fa8575</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gX6JVmDDBlvlvMSrtStQi" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDaa8464df-c0d3-4bbf-9bf9-59cd777376ac</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0cDnXAy7X6rB$tVM$zY3z8" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID2637184a-f078-46d4-bff7-7d6ffd883f48</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1ZYt1bmiH16OptKIE44mu3" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1560787</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3vWUMuKtz5KOgIq6b3Elqd" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDf981e5b8-537f-4551-8a92-d069433afd27</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2DaGT79wr3EPFjQMwzZX5$" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>3005119</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1n8ymYphfC0ABggZLevifv" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>3007825</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2ko02LMi10Sfy274jIU3E2" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDaec80095-5ac0-4072-9f02-1c4b52783382</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3aEqj38TbCPRut2nemEu2j" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2990755</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2XE_6arnf2Lx4T4V3jN7M8" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>912361</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0uOtRASHPE4A_oGNWIzz88" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID386376ca-7116-4e10-afb2-417812f7d208</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz2D" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994272</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2mXlzLrtj7tgwGaxX1lc33" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>910671</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1GxYvzZt5CewKklLoXzjeN" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1827164</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz25" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994280</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1eFVZE$Wn4rwqLi4bTo$Ek" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID683df8ce-fe0c-44d7-ad15-b0495dcbf3ae</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1IUfNshGP9QxMLHJI_3Oyq" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID527a95f6-ad06-496b-b595-4534be0d8f34</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3Xkj1wTMT9QR0FyWCjqSj1" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>764054</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2ZpjjyYHP8zgxSGWtVyfca" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDa3cedb7c-8916-48f6-aedc-420ddff299a4</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0Dw46EdDvARx$Jh5ZpW9Fg" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>628943</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0NPbk4vynBphh36nP6WrsI" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID17665b84-e7cc-4bce-bac3-1b1646835d92</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0qT0g3EUT0CvONEr2IDrYg" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID34740a83-39e7-4033-9617-3b50923758aa</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3aEqj38TbCPRut2nemEu5a" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2990954</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2XE_6arnf2Lx4T4V3jN7Vs" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>911767</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0nwKcL2RfEm8BDIPgBMTG6" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID31e94995-09ba-4ec0-82cd-499a8b59d406</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0N6AQ5eOT4x8RTO23ujM8u" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID1718a685-a187-44ec-86dd-6020f8b56238</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2GLN8iDYz04gw0gxC59A5y" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID9055722c-362f-4012-ae80-abb30524a17c</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2XE_6arnf2Lx4T4V3jN7Vx" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>911770</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0USIMg6gP7qwPdt5kzZfB8" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID1e7125aa-1aa6-47d3-a667-dc5bbd8e92c8</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz_l" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>992450</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1QdzhcMYH2I994R_55SEKX" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID5a9fdae6-5a24-4248-9244-6fe14570e521</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1j4uxG0MX4fQgPOAF9Oczc" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID6d138ed0-0168-44a5-aa99-60a3c9626f66</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2XE_6arnf2Lx4T4V3jN7SW" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>911681</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0cujAAL_nCsu8FBbVHo4Wc" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID26e2d28a-57ec-4cdb-820f-2e57d1c84826</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0lXo0AK1LDURjJFzeTWj8F" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID2f87200a-5015-4d79-bb53-3fda1d82d20f</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0O45I_qyr0afTcjiVAGm$8" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID181054be-d3cd-4092-9766-b6c7ca430fc8</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2hsmY03Wv08AEjX$J2iEIl" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDabdb0880-0e0e-4020-a3ad-87f4c2b0e4af</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0UjElIkUzF4hM3QOv$1$zN" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID1eb4ebd2-b9ef-4f12-b583-698e7f07ff57</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1y1p3RcqX8hwZjmCTqNVlg" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID7c0730db-9b48-48af-a8ed-c0c7745dfbea</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2MEqzSMHLBvw8ktldgMkwW" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID963b4f5c-5915-4be7-a22e-def9ea5aeea0</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="24khWFo0H99ufP71fWqZC0" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID84bab80f-c804-4927-8a59-1c1a60d23300</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1czqHEwnf5VPquuC$7$4NI" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID66f7444e-eb1a-457d-9d38-e0cfc7fc45d2</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1Ya$2EIy51bwVSNi_PODKh" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID6293f08e-4bc1-4197-a7dc-5ecf9960d52b</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3aEqj38TbCPRut2nemEuBJ" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2990301</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3aEqj38TbCPRut2nemEuCJ" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2990365</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2_tgdMUXjBvRXkdSNOzcBO" Selected="true" Visible="true">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1531998</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0Rl$zm6EX2RALnw49MTk6j" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1693620</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="20heWl6djC$PxSKMMYv04r" Selected="true" Visible="true">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1971269</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Izuo" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>992607</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2wqx3GZC166ekEBB9_DSor" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDbad3b0d0-8cc0-461a-8b8e-2cb27e35ccb5</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz2F" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994274</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gqf7Ga5P0Iu9k0YObo1MQ" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDaad291d0-9056-404b-826e-022625c8159a</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2JYizMHGH3yOEkFdacicQO" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID938acf56-4504-43f1-83ae-3e7926b26698</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="39IiP5Irz2AATG_RgzKkkJ" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDc94ac645-4b5f-4228-a750-f9babd52eb93</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1cPAzDeMjD_96uJyivBkzz" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID6664af4d-a16b-4df8-91b8-4fcb392eef7d</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3aEqj38TbCPRut2nemEu30" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2990798</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0_25T4pKz7keA5wp$8$aRs" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID3e085744-cd4f-47ba-8285-eb3fc8fe46f6</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3aEqj38TbCPRut2nemEu76" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2991048</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="02nCcnL$j01OVuACqFlAMN" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID02c4c9b1-57fb-4005-87f8-28cd0fbca597</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3ytBXP8KD8TBr_HCdH3$It" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDfcdcb859-2143-4874-bd7e-44c9d10ff4b7</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2rPT5lKN9Elf0sSN4hh5Vo" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDb565d16f-5172-4ebe-9036-71712bac57f2</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3QVO08pTfDbQHx$mtBNeOI" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDda7d8008-cdda-4d95-a47b-ff0dcb5e8612</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3LmCVfgqr3rxM8jwofVj3Y" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDd5c0c7e9-ab4d-43d7-b588-b7aca97ed0e2</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3M9KaWFWLBMO_HOiq2aXHd" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDd6254920-3e05-4b59-8f91-62cd02921467</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2XE_6arnf2Lx4T4V3jN7SC" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>911725</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="00w2cxiMXFbxyFJ$XXpMHv" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID00e829bb-b168-4f97-bf0f-4ff861cd6479</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0wAMWlOyj4XfcLG$6RnEF1" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID3a29682f-63cb-4486-9995-43f19bc4e3c1</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="23Psi08ijE39THB$Q$ZQqj" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID83676b00-22cb-4e0c-9751-2ff6bf8dad2d</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3NdO6ftEbEAuEk2qFVKm3d" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>530873</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0ONAd2I3139AbP$95DiVO1" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2920534</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2G1Xmbopr8x8DIZ4FG915I" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>734222</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1phPWsMLL68uF4E_o6AJzN" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID73ad9836-5955-4623-83c4-3bec86293f57</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz2R" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994294</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3kBKR_pzT3EfaRE7cZxayW" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2987671</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0ZMtnDUR93Bhx$paj37Htr" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID235b7c4d-79b2-432e-beff-ce4b431d1df5</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1n8ymYphfC0ABggZLeviam" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>3008024</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3kBKR_pzT3EfaRE7cZxa$Y" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2987605</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2My5kJy0r9LApqyvdjVXWc" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID96f05b93-f00d-4954-acf4-f399ed7e1826</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3mlJexFAXBPgQwK$fVGPwL" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDf0bd3a3b-3ca8-4b66-a6ba-53fa5f419e95</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1ZYt1bmiH16OptKIE44n7P" Selected="true" Visible="true">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1560329</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3kBKR_pzT3EfaRE7cZxa5Q" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2988269</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3lvr$tek9AJAvthAFOHBwz" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDefe75ff7-a2e2-4a4c-ae77-aca3d844bebd</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1rNVWvbMb2KeXCNOq0Ik5E" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID755df839-9569-4252-884c-5d8d004ae14e</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2tHBhNHCP47ezW3tKL3v7V" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDb744bad7-44c6-441e-8f60-0f75150f91df</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0qHW8fAi5DQOn_CMa4TEZc" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID34460229-2ac1-4d69-8c7e-31690474e8e6</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2BSUzwjqPEzeYJTwl2qm1l" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID8b71ef7a-b746-4ef6-8893-77abc2d3006f</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2$W5_lY4fDffJVPQ4PGtXn" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDbf805faf-884a-4da6-94df-65a119437871</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1zIxPUzkr0Dg9O$5CGMnro" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID7d4bb65e-f6ed-4036-a258-fc53105b1d72</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1slGN5Yu9B_94hQ9wLLKwE" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID76bd05c5-8b82-4bf8-912b-689e95554e8e</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3WVOLNkcrCIOQVOaId5$6k" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2472203</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2sib_5kU10AhPNa$3EChie" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1152213</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1OUoJUWaf0jxvVouKo4KQs" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID587b24de-824a-40b7-be5f-cb85321146b6</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2FaXspSWT71g9LshHlATPI" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID8f921db3-7207-4706-a255-dab46f29d652</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0K7NddPuD7MvfyzSkw457k" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID141d79e7-6783-475b-9a7c-f5cbba1051ee</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1txu1J_XzC8ficl5cTmiRj" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID77ef8053-fa1f-4c22-9b26-bc599dc2c6ed</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="18kC1aciP5B81Nv4psWusW" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID48b8c064-9ac6-452c-8057-e44cf6838da0</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2HGbYlgsP4MP28iT5rehKC" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID914258af-ab66-4459-9088-b1d175a2b50c</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0sLWZf53bDxR5PLtw8FBA8" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID365608e9-1439-4ded-b159-577e883cb288</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3kBKR_pzT3EfaRE7cZxa$F" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2987640</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3Xkj1wTMT9QR0FyWCjqShY" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>764213</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0ASMcVrGr1KQhodjFNnxqr" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID0a71699f-d50d-4151-aaf2-9ed3d7c7bd35</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3lJcjWqYDAnxKzgXbL8KbZ" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDef4e6b60-d223-4ac7-b53d-aa1955214963</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3aEqj38TbCPRut2nemEuA_" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2990256</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3ZPinqgkz119EZJynUudmr" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1664858</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0bT6cKp3nDLewUVIjWF6Ut" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID25746994-cc3c-4d56-8e9e-7d2b603c67b7</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2z8dwmtB99tAVmrDeYNxMX" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDbd227eb0-dcb2-49dc-a7f0-d4da225fb5a1</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1ZYt1bmiH16OptKIE44m$P" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1560841</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="12hRUGjdrFxhhzqbb75jPR" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID42adb790-b67d-4fee-bafd-d2594716d65b</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3kBKR_pzT3EfaRE7cZxaNX" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2989142</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3Xkj1wTMT9QR0FyWCjqSg8" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>764255</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1GxYvzZt5CewKklLoXzjzn" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1827898</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="24_fF4H7T55xTt1MN93Q9O" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID84fa93c4-4477-4517-b777-0565c90da258</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3kBKR_pzT3EfaRE7cZxawt" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2987776</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="20heWl6djC$PxSKMMYv1iq" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1969732</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2DhtWCfNP4KAAqCPqnzlq0" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID8daf780c-a576-4450-a2b4-319d31f6fd00</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3kBKR_pzT3EfaRE7cZxa73" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2988148</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3VpbnI91r8jPqbn8xaaUVc" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDdfce5c52-241d-48b5-9d25-c48ee491e7e6</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3yfiKPA4z2sACeiOeIXgQL" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDfca6c519-284f-42d8-a328-b18a1286a695</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3QpPvZ4_bCCBHQZ$5nSkG_" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDdacd9e63-13e9-4c30-b45a-8ff17172e43e</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3AE$vDpu13lw36Ci$bEBXh" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDca3bfe4d-cf80-43bf-a0c6-32cfe538b86b</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3KLNnz7v96uv2ekNHR$9x5" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDd4557c7d-1f92-46e3-90a8-b9745bfc9ec5</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1ydNw1bkD2DOxHmYqxM9dJ" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID7c9d7e81-96e3-4235-8ed1-c22d3b5899d3</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3hjgvuU419fe6oU2$MioYO" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDebb6ae78-7840-49a6-81b2-782fd6b32898</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0dHznQ_z1C$8r75q4XtcyV" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1721282</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1l9RyXstD63R4MaDCAx0xd" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID6f25bf21-db73-460d-b116-90d30aec0ee7</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1ox2pphQj50OkH2hXB5Jh3" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID72ec2cf3-adab-4501-8b91-0ab84b153ac3</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2f8iBTFWb5UBLsyjf6VXoG" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDa922c2dd-3e09-4578-b576-f2da467e1c90</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz_A" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>992487</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0uiaV9kAD6Hhf_P2Bdzb8O" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID38b247c9-b8a3-4646-ba7e-6422e7f65218</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3KMyK$h759Hv2MJL51AXjb" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDd45bc53f-ac71-4947-9096-4d51412a1b65</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3aEqj38TbCPRut2nemEuFU" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2990544</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="20heWl6djC$PxSKMMYv1v2" Selected="true" Visible="true">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1968946</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="059JNnfcn3SAFIl$YOHpWE" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2922819</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz28" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994277</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1xG7q8t9j7OAXkDa8QbYDn" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID7b407d08-dc9b-4760-a86e-36421a962371</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0D4DmehLT2SPtAkSdmMYoi" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID0d10dc28-ad57-4271-9dca-b9c9f05a2cac</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0KBOBLK9j2guEUS0DUQIC5" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2844350</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2XE_6arnf2Lx4T4V3jN7Vu" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>911769</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="284ATKii95x8gY2rBl6Yal" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID8810a754-b2c2-45ec-8aa2-0b52ef1a292f</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz2L" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994296</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0T2OaCbK59h9aTig7pKc5R" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID1d09890c-9541-49ac-991d-b2a1f352615b</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0NdcatC$X1kfyRU_wKrpfG" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID179e6937-33f8-41ba-9f1b-7bee94d73a50</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3kBKR_pzT3EfaRE7cZxa3U" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2988393</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gRiy3FbP7HghzcAODGoG7" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDaa6ecf03-3e56-4746-aafd-98a60d432407</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0Ar9OUSXrB5AZyjxMhqu4$" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID0ad4961e-721d-4b14-a8fc-b7b5abd3813f</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0z3O9FxwLDCP7Lxb86VUPa" Selected="true" Visible="true">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1723966</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2DaGT79wr3EPFjQMwzZX9f" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>3004841</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="1IVIbXyaP5Kgm8gPnIWX4T" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID527d2961-f246-4552-ac08-a99c5282111d</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2DoquMjWD1fPe2ap5N$Fq3" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID8dcb4e16-b603-41a5-9a02-933157fcfd03</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0sJzGmqUvBmfEDx0o3bvo2" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID364fd430-d1ee-4bc2-938d-ec0c83979c82</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2XE_6arnf2Lx4T4V3jN7SY" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>911683</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0m1q2j63z0NRVIj7i6HRz7" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>756496</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2RIqyvSU92IQKcMQBEF9M2" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID9b4b4f39-71e2-4249-a526-59a2ce3c9582</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2a7rTrm5rC18rXEkPfSB1V" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDa41f5775-c05d-4c04-8d61-3ae66970b05f</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3Ua5MLkYbCTwPlHWotNssS" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDde905595-ba29-4c77-a66f-460cb75f6d9c</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3kBKR_pzT3EfaRE7cZxaBO" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2988911</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="19zj98Xrz4leyHuEB9gLgi" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID49f6d248-875f-44be-8f11-e0e2c9a95aac</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3lqFocArrF2uOMRiG0D4tW" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDefd0fca6-2b5d-4f0b-8616-6ec400344de0</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3kBKR_pzT3EfaRE7cZxaJd" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>2989392</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0j87HxdRrBKRJvmBa8Zf69" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>ID2d20747b-9dbd-4b51-b4f9-c0b9088e9189</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="20heWl6djC$PxSKMMYv1kE" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1969918</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2n6h55Kof7fBbQXmiZdfLy" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDb11ab145-532a-47a4-b95a-870b239e957c</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz2m" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994269</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2v3jz_8nr4xRDVapMxedRQ" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDb90edf7e-231d-44ed-b35f-9335bba276da</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="3gv0NM4ur2z8Htv13t0yP1" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDeae405d6-138d-42f4-8477-e410f703c641</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0pd09CnNn0y8dpGqIQCfid" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>1537394</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz2n" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994268</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz27" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994282</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz2A" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994279</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz2O" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994293</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="0Dw46EdDvARx$Jh5ZpW9Fq" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>628945</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2gQuTshc13v8GVfrx2Iz2o" Selected="false" Visible="true" Color="FFFF0000">
+            <OriginatingSystem>Autodesk Revit 2020 (ENU)</OriginatingSystem>
+            <AuthoringToolId>994271</AuthoringToolId>
+        </Component>
+        <Component IfcGuid="2aMHy2utL69w6BgCyKtnQ0" Selected="false" Visible="true" Color="6C0000FF">
+            <OriginatingSystem>Tekla Structures</OriginatingSystem>
+            <AuthoringToolId>IDa4591f02-e375-4627-a18b-a8cf14df1680</AuthoringToolId>
+        </Component>
+    </Components>
+    <PerspectiveCamera>
+        <CameraViewPoint>
+            <X>259.3344744520956</X>
+            <Y>216.8728129511076</Y>
+            <Z>126.67614124084963</Z>
+        </CameraViewPoint>
+        <CameraDirection>
+            <X>0.393382180111957</X>
+            <Y>0.6935335070374945</Y>
+            <Z>-0.6035409969394269</Z>
+        </CameraDirection>
+        <CameraUpVector>
+            <X>0.2977709198915568</X>
+            <Y>0.5249706794227401</Y>
+            <Z>0.797331966632069</Z>
+        </CameraUpVector>
+        <FieldOfView>74.0</FieldOfView>
+    </PerspectiveCamera>
+    <ClippingPlanes>
+        <ClippingPlane>
+            <Location>
+                <X>173.5421381851036</X>
+                <Y>-73.99135192798755</Y>
+                <Z>0.0</Z>
+            </Location>
+            <Direction>
+                <X>0.9198801034234612</X>
+                <Y>-0.3921996880743818</Y>
+                <Z>0.0</Z>
+            </Direction>
+        </ClippingPlane>
+    </ClippingPlanes>
+</VisualizationInfo>
