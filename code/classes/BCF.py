@@ -86,13 +86,47 @@ class BCF_V2():  # This is a BCF 2.0 Class atm
                 loop_viewpoints(x)
                 idx_viewpoint += 1
 
+# todo Lag en "comment_template" funksjon
+    def comment_template(self):
+        """
+        <Comment Guid="f5a88273-8fb0-4cff-a0b5-6ef16ca2dce6">
+        <VerbalStatus>Open</VerbalStatus>
+        <Status>Error</Status>
+        <Date>2020-05-15T10:06:05+02:00</Date>
+        <Author>henrik.nystrom@bundebygg.no</Author>
+        <Comment></Comment>
+        <ModifiedDate>2020-05-15T10:06:05+02:00</ModifiedDate>
+        </Comment>
+        """
+        print("template")
+
+
 # todo Lag en "add comment" funksjon
+    def add_comment(self, path):
+        import xml.etree.ElementTree as ET
+        # Parses the xml for makeing it readable
+        tree = ET.parse(path)
+        root = tree.getroot()
+
+        def loop_comments(root):
+            for idx in range(0, 6):
+                if x[idx].text is None:
+                    x[idx].text = ""
+                print("    " + x[idx].tag + ":  " + x[idx].text)
+
+        idx_comment = 1
+        for x in root:
+            if x.tag == "Comment":
+                print("___ Comment: ", idx_comment, " ___")
+                loop_comments(x)
+                idx_comment += 1
+
 
 # todo  Lag en "edit comment" funksjon
 
 # todo Lag en "remove comment" funksjon
 
-# todo Lag en "Add new picture to issue" funksjon
+# todo Lag en "add viewpoint" funksjon - Nytt bilde til issue
 
 # todo Lag en "Export specific issues to bcfzip" funksjon
 
