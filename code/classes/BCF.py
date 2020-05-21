@@ -1,12 +1,21 @@
-class BCF_V2():
-    def __init__(self, path_to_issues):
+class BCF_V2(): #This is a BCF 2.0 Class atm
+    def __init__(self, path_to_issues, path_to_bcfzip_files):
         print("BCF class imported")
         self.path_to_issues = path_to_issues
-
+        self.path_to_bcfzip_files = path_to_bcfzip_files
+    def get_all_bcfzip_paths(self):
+        from os import walk, sep
+        paths = []
+        for subdir, dirs, files in walk(self.path_to_issues):
+            for filename in files:
+                filepath = subdir + sep + filename
+                if filepath.endswith(".bcfzip"):
+                    paths.append(filepath)
+        return paths
     def unzip_bcf(self, path_to_file):
         from zipfile import ZipFile
         with ZipFile(path_to_file, 'r') as zip_ref:
-            zip_ref.extractall(self.path_to_issues + r"\Issue04")  # todo Loop to create issue folder
+            zip_ref.extractall(self.path_to_issues + r"\Issues")  # todo Loop to create issue folder
 
     def get_all_issue_marup_paths(self):
         from os import walk, sep
