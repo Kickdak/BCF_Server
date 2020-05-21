@@ -5,6 +5,9 @@ class BCF_V2():  # This is a BCF 2.0 Class atm
         self.path_to_bcfzip_files = path_to_bcfzip_files
 
     def get_amount_off_issues(self):
+        """
+        Denne funksjonen returnerer antall totale issues som finnes
+        """
         from os import walk
         idx = 0
         for subdir, dirs, files in walk(self.path_to_issues):
@@ -13,6 +16,9 @@ class BCF_V2():  # This is a BCF 2.0 Class atm
         return nr
 
     def get_all_bcfzip_paths(self):
+        """
+        Denne funksjonen returnerer en liste med filbaner til .bcfzip filer.
+        """
         from os import walk, sep
         paths = []
         for subdir, dirs, files in walk(self.path_to_bcfzip_files):
@@ -79,3 +85,15 @@ class BCF_V2():  # This is a BCF 2.0 Class atm
                 print("___ Viewpoint: ", idx_viewpoint, " ___")
                 loop_viewpoints(x)
                 idx_viewpoint += 1
+
+# todo Lag en "add comment" funksjon
+
+# todo  Lag en "edit comment" funksjon
+
+# todo Lag en "remove comment" funksjon
+
+# todo Lag en "Add new picture to issue" funksjon
+
+# todo Lag en "Export specific issues to bcfzip" funksjon
+
+# todo Lag en "Delete Issue" funksjon - Kan være en metode som dytter saken til en dump folder som tømmes 1 gang i uken.
