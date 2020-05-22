@@ -86,41 +86,57 @@ class BCF_V2():  # This is a BCF 2.0 Class atm
                 loop_viewpoints(x)
                 idx_viewpoint += 1
 
-# todo Lag en "comment_template" funksjon
-    def comment_template(self):
-        """
-        <Comment Guid="f5a88273-8fb0-4cff-a0b5-6ef16ca2dce6">
-        <VerbalStatus>Open</VerbalStatus>
-        <Status>Error</Status>
-        <Date>2020-05-15T10:06:05+02:00</Date>
-        <Author>henrik.nystrom@bundebygg.no</Author>
-        <Comment></Comment>
-        <ModifiedDate>2020-05-15T10:06:05+02:00</ModifiedDate>
-        </Comment>
-        """
-        print("template")
+    def add_comment(file, VerbalStatus, Status, Date, Author, Comment):
+        from xml.etree import ElementTree
+        from uuid import uuid4
+        def time_now():
+            from datetime import datetime
+            current_time = datetime.now().strftime("%y-%m-%dT%H:%M:%S+02:00")  # todo "02:00" hva er det for noe?
+            print("Current Time =", current_time)
+            return current_time
 
+        def indent(elem, level=2):
+            i = "\n" + level * "  "
+            j = "\n" + (level - 1) * "  "
+            if len(elem):
+                if not elem.text or not elem.text.strip():
+                    elem.text = i + "  "
+                if not elem.tail or not elem.tail.strip():
+                    elem.tail = i
+                for subelem in elem:
+                    indent(subelem, level + 1)
+                if not elem.tail or not elem.tail.strip():
+                    elem.tail = j
+            else:
+                if level and (not elem.tail or not elem.tail.strip()):
+                    elem.tail = j
+            return elem
 
-# todo Lag en "add comment" funksjon
-    def add_comment(self, path):
-        import xml.etree.ElementTree as ET
-        # Parses the xml for makeing it readable
-        tree = ET.parse(path)
-        root = tree.getroot()
+        def sub_elem(element, tag, value):
+            sub = ElementTree.SubElement(element, str(tag))
+            sub.text = str(value)
 
-        def loop_comments(root):
-            for idx in range(0, 6):
-                if x[idx].text is None:
-                    x[idx].text = ""
-                print("    " + x[idx].tag + ":  " + x[idx].text)
+        root = ElementTree.parse(file).getroot()
+        c = ElementTree.Element("Comment")
+        c.text = ""
+        c.set("Guid", str(uuid4()))
+        sub_elem(c, "VerbalStatus", VerbalStatus)
+        sub_elem(c, "Status", time_now())
+        sub_elem(c, "Date", Date)
+        sub_elem(c, "Author", Author)
+        sub_elem(c, "Comment", Comment)
+        sub_elem(c, "ModifiedDate",
+                 time_now())  # todo Lag en funksjon som endrer denne datoen hvis kommentaren er redigert
 
-        idx_comment = 1
-        for x in root:
+        for idx, x in enumerate(root):
+            print(x.tag, " - ", idx)
             if x.tag == "Comment":
-                print("___ Comment: ", idx_comment, " ___")
-                loop_comments(x)
-                idx_comment += 1
-
+                i = idx + 1
+        root.insert(i, c)
+        indent(root, level=3)
+        with open(file, 'w') as file:
+            file.writelines(r'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>' + '\n')
+            file.writelines(ElementTree.tostring(root, encoding='unicode'))
 
 # todo  Lag en "edit comment" funksjon
 

@@ -1,26 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Markup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="markup.xsd">
-    <Header/>
-    <Topic Guid="3af4434e-bc91-4a84-aff2-031888cab8f3" TopicType="Error" TopicStatus="Open">
-        <Title>Mangler vegg 1</Title>
+        <Header />
+      <Topic Guid="3af4434e-bc91-4a84-aff2-031888cab8f3" TopicStatus="Open" TopicType="Error">
+          <Title>Mangler vegg 1</Title>
         <Index>3</Index>
         <CreationDate>2020-05-15T10:52:05+02:00</CreationDate>
         <CreationAuthor>henrik.nystrom@bundebygg.no</CreationAuthor>
         <ModifiedDate>2020-05-15T11:22:56+02:00</ModifiedDate>
         <ModifiedAuthor>henrik.nystrom@bundebygg.no</ModifiedAuthor>
         <AssignedTo>ARK</AssignedTo>
-        <Description></Description>
-    </Topic>
-    <Comment Guid="466ff6bc-ff60-4af1-a526-8cecb4bcca46">
-        <VerbalStatus>Open</VerbalStatus>
+        <Description />
+        </Topic>
+      <Comment Guid="466ff6bc-ff60-4af1-a526-8cecb4bcca46">
+          <VerbalStatus>Open</VerbalStatus>
         <Status>Error</Status>
         <Date>2020-05-15T10:52:05+02:00</Date>
         <Author>henrik.nystrom@bundebygg.no</Author>
-        <Comment></Comment>
+        <Comment />
         <ModifiedDate>2020-05-15T10:52:05+02:00</ModifiedDate>
-    </Comment>
-    <Viewpoints Guid="913e7df2-2776-45ca-a917-78131e8bc4af">
-        <Viewpoint>viewpoint.bcfv</Viewpoint>
+        </Comment>
+      <Comment Guid="0fa361a6-a723-4bc3-acc1-74fc7389796b">
+          <VerbalStatus>Open</VerbalStatus>
+        <Status>Error</Status>
+        <Date>2020-05-15T10:06:05+02:00</Date>
+        <Author>henrik.nystrom@bundebygg.no</Author>
+        <Comment>Test Comment 001</Comment>
+        <ModifiedDate>20-05-22T20:23:45+02:00</ModifiedDate>
+        </Comment>
+      <Viewpoints Guid="913e7df2-2776-45ca-a917-78131e8bc4af">
+          <Viewpoint>viewpoint.bcfv</Viewpoint>
         <Snapshot>snapshot.png</Snapshot>
-    </Viewpoints>
-</Markup>
+        </Viewpoints>
+      </Markup>
+    
