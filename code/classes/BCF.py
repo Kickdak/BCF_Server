@@ -52,13 +52,13 @@ class BCF_V2():  # This is a BCF 2.0 Class atm
 
         # Loops for each tag
         def loop_topics(root):
-            for idx in range(0, 8):
+            for idx in range(0, len(x)):
                 if x[idx].text is None:
                     x[idx].text = ""
                 print("    " + x[idx].tag + ":  " + x[idx].text)
 
         def loop_comments(root):
-            for idx in range(0, 6):
+            for idx in range(0, len(x)):
                 if x[idx].text is None:
                     x[idx].text = ""
                 print("    " + x[idx].tag + ":  " + x[idx].text)
